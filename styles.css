@@ -1,1 +1,12 @@
 /* Your CSS code here. */
+#a{
+	background-color: black;
+	color:white;
+}
+li>a{
+	color:white;
+}
+nav{
+	padding-top:10px;
+	padding-left:20px;
+}
